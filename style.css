@@ -88,12 +88,16 @@ h1{
     #gran{
         font-size: 80px;
         text-align: center;
+        color:white;
     }
     #po{
-        text-align: center;
+        text-align: justify;
+        margin-left: 200px;
     }
     #der{
-        text-align: center;
+        text-align: justify;
+        color: blue;
+        margin-left: 200px;
     }
     .en{
         width:300px;
@@ -113,7 +117,7 @@ h1{
     #no{
         text-align: center;
         color:white;
-        padding-bottom: 100px;
+        margin-bottom: 150px;
     }
     #mimi{
         padding-left: 300px;
